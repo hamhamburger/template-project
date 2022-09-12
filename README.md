@@ -1,6 +1,6 @@
 # template-react-project
 
-viteにTypescript,prettier,eslint導入した環境
+viteにTypescript,prettier,eslintを導入したテンプレート
 
 使い方
 
